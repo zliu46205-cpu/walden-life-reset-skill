@@ -1,0 +1,7 @@
+interface:
+  display_name: "Walden Life Reset"
+  short_description: "用《瓦尔登湖》简化生活、恢复注意力、重置心态。"
+  default_prompt: "Use $walden-life-reset 帮我放慢生活节奏，并设计一个今天就能做的刻意生活小实验。"
+
+policy:
+  allow_implicit_invocation: true
